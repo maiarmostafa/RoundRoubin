@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1610211839 source:d:\iti\ds\round robin\projectrr\main.cpp
+	<iostream>
+	"LinkedListt.h"
+	"QueueCells.h"
+	"Process.h"
+	"Stack.h"
+	"Queue.h"
+
+1610213029 d:\iti\ds\round robin\projectrr\include\\linkedlistt.h
+	"Node.h"
+	"QueueCells.h"
+	"Process.h"
+	"Queue.h"
+
+1610152422 d:\iti\ds\round robin\projectrr\include\\node.h
+	"QueueCells.h"
+	"Stack.h"
+	"LinkedListt.h"
+
+1610148961 d:\iti\ds\round robin\projectrr\include\\queuecells.h
+
+1610210813 d:\iti\ds\round robin\projectrr\include\\process.h
+
+1610144467 d:\iti\ds\round robin\projectrr\include\\stack.h
+	"Process.h"
+
+1610213246 d:\iti\ds\round robin\projectrr\include\\queue.h
+	"Node.h"
+

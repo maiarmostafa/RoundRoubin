@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1610651100 source:d:\iti\ds\round robin\projectrr\main.cpp
+	<iostream>
+	"LinkedListt.h"
+	"QueueCells.h"
+	"Stack.h"
+	"Queue.h"
+
+1610651634 d:\iti\ds\round robin\projectrr\include\\linkedlistt.h
+	"Node.h"
+	"QueueCells.h"
+	"Queue.h"
+	"Stack.h"
+
+1610215331 d:\iti\ds\round robin\projectrr\include\\node.h
+	"QueueCells.h"
+	"Stack.h"
+	"LinkedListt.h"
+
+1610579963 d:\iti\ds\round robin\projectrr\include\\queuecells.h
+	"linked.h"
+	"LinkedListt.h"
+
+1610210813 d:\iti\ds\round robin\projectrr\include\\process.h
+
+1610650274 d:\iti\ds\round robin\projectrr\include\\stack.h
+
+1610565056 d:\iti\ds\round robin\projectrr\include\\queue.h
+	"Node.h"
+
+1610226886 source:c:\users\marina majiiid\desktop\projectrr\main.cpp
+	<iostream>
+	"LinkedListt.h"
+	"QueueCells.h"
+	"Stack.h"
+	"Queue.h"
+
+1610228692 c:\users\marina majiiid\desktop\projectrr\include\\linkedlistt.h
+	"Node.h"
+	"QueueCells.h"
+	"Queue.h"
+	"Stack.h"
+
+1610215331 c:\users\marina majiiid\desktop\projectrr\include\\node.h
+	"QueueCells.h"
+	"Stack.h"
+	"LinkedListt.h"
+
+1610220368 c:\users\marina majiiid\desktop\projectrr\include\\queuecells.h
+
+1610226260 c:\users\marina majiiid\desktop\projectrr\include\\stack.h
+
+1610219381 c:\users\marina majiiid\desktop\projectrr\include\\process.h
+
+1610225901 c:\users\marina majiiid\desktop\projectrr\include\\queue.h
+	"Node.h"
+
+1610580576 d:\iti\ds\round robin\projectrr\include\\linked.h
+
+1610656125 source:c:\users\marina majiiid\desktop\projectrr (2)\projectrr\main.cpp
+	<iostream>
+	"LinkedListt.h"
+	"QueueCells.h"
+	"Stack.h"
+	"Queue.h"
+
+1610669880 c:\users\marina majiiid\desktop\projectrr (2)\projectrr\include\\linkedlistt.h
+	"Node.h"
+	"QueueCells.h"
+	"Queue.h"
+	"Stack.h"
+
+1610215331 c:\users\marina majiiid\desktop\projectrr (2)\projectrr\include\\node.h
+	"QueueCells.h"
+	"Stack.h"
+	"LinkedListt.h"
+
+1610579963 c:\users\marina majiiid\desktop\projectrr (2)\projectrr\include\\queuecells.h
+	"linked.h"
+	"LinkedListt.h"
+
+1610669552 c:\users\marina majiiid\desktop\projectrr (2)\projectrr\include\\linked.h
+
+1610652713 c:\users\marina majiiid\desktop\projectrr (2)\projectrr\include\\stack.h
+
+1610665767 c:\users\marina majiiid\desktop\projectrr (2)\projectrr\include\\queue.h
+	"Node.h"
+
+1610737479 source:d:\iti\ds\round robin\projectrr\projectrr\main.cpp
+	<iostream>
+	"LinkedListt.h"
+	"QueueCells.h"
+	"Stack.h"
+	"Queue.h"
+
+1610921785 d:\iti\ds\round robin\projectrr\projectrr\include\\linkedlistt.h
+	"Node.h"
+	"QueueCells.h"
+	"Queue.h"
+	"Stack.h"
+
+1610730922 d:\iti\ds\round robin\projectrr\projectrr\include\\node.h
+	"QueueCells.h"
+	"Stack.h"
+	"LinkedListt.h"
+
+1610921309 d:\iti\ds\round robin\projectrr\projectrr\include\\queuecells.h
+	"linked.h"
+	"LinkedListt.h"
+
+1610730784 d:\iti\ds\round robin\projectrr\projectrr\include\\linked.h
+
+1610921627 d:\iti\ds\round robin\projectrr\projectrr\include\\stack.h
+
+1610921346 d:\iti\ds\round robin\projectrr\projectrr\include\\queue.h
+	"Node.h"
+
